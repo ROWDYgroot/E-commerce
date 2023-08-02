@@ -1,0 +1,9 @@
+.cart-count {
+  position: absolute;
+  margin-top: -10px;
+  color: rgb(57, 63, 57);
+  padding: 5px;
+  border-radius: 100%;
+  border: none;
+  font-size: 12px;
+}
